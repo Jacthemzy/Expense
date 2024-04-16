@@ -1,9 +1,9 @@
 import React from 'react';
-import { Header } from './components/Header';
-import { Balance } from './components/Balance';
-import { IncomeExpenses } from './components/IncomeExpenses';
-import { TransactionList } from './components/TransactionList';
-import { AddTransaction } from './components/AddTransaction';
+import  Header  from './component/Header';
+import  Balance  from './component/Balance';
+import  IncomeExpenses  from './component/IncomeExpenses';
+import  TransactionList  from './component/TransactionList';
+import  AddTransaction  from './component/AddTransaction';
 
 import { GlobalProvider } from './context/GlobalState';
 
